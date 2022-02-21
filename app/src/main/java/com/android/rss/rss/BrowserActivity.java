@@ -1,4 +1,4 @@
-package com.android.rss;
+package com.android.rss.rss;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -13,6 +13,8 @@ import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
+
+import com.android.rss.R;
 
 public class BrowserActivity extends AppCompatActivity {
 

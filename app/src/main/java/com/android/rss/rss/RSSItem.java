@@ -1,4 +1,4 @@
-package com.android.rss;
+package com.android.rss.rss;
 
 
 class RSSItem {

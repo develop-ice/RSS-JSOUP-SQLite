@@ -1,4 +1,4 @@
-package com.android.rss;
+package com.android.rss.rss;
 
 import android.support.annotation.Nullable;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.android.rss;
+package com.android.rss.rss;
 
 import android.annotation.SuppressLint;
 import android.app.ListActivity;
@@ -13,6 +13,8 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
+
+import com.android.rss.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -18,8 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BrowserActivity" />
-        <activity android:name=".RSSFeedActivity" />
+        <activity android:name=".rss.BrowserActivity" />
+        <activity android:name=".rss.RSSFeedActivity" />
+        <activity android:name=".jsoup.JsoupActivity"></activity>
+        <activity android:name=".jsoup.DetailActivity" />
+        <activity android:name=".jsoup.VideoActivity" />
     </application>
 
 </manifest>
