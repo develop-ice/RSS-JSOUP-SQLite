@@ -20,9 +20,10 @@
         </activity>
         <activity android:name=".rss.BrowserActivity" />
         <activity android:name=".rss.RSSFeedActivity" />
-        <activity android:name=".jsoup.JsoupActivity"></activity>
+        <activity android:name=".jsoup.JsoupActivity" />
         <activity android:name=".jsoup.DetailActivity" />
         <activity android:name=".jsoup.VideoActivity" />
+        <activity android:name=".sqlite.DataBaseActivity"></activity>
     </application>
 
 </manifest>

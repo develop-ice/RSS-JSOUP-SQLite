@@ -9,12 +9,21 @@
         android:id="@+id/btnRediff"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="16dp"
         android:text="REDIFF.COM RSS FEED" />
 
     <Button
         android:id="@+id/btnJsoup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="16dp"
         android:text="JSOUP" />
+
+    <Button
+        android:id="@+id/btnSQLite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="SQLite" />
 
 </LinearLayout>
